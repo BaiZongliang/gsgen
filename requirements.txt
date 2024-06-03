@@ -8,7 +8,7 @@ beautifulsoup4==4.12.2
 brotlipy==0.7.0
 cachetools==5.3.1
 cfgv==3.3.1
-click==0.4.6
+click==8.1.7
 contourpy==1.2.0
 cycler==0.12.1
 decorator==5.1.1
